@@ -28,7 +28,7 @@ Interior Coordinates:  -629, -324, 0
 {% tab title="Interior" %}
 <div align="center">
 
-<figure><img src=".gitbook/assets/Bully 9_25_2023 9_55_44 PM.png" alt="" width="563"><figcaption><p>Boys Dorm Interior</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Bully 9_25_2023 9_55_44 PM.png" alt=""><figcaption><p>Boys Dorm Interior</p></figcaption></figure>
 
 </div>
 
@@ -40,7 +40,7 @@ Interior Coordinates:  -502, 314, 31
 {% tab title="Exterior" %}
 <div align="center">
 
-<figure><img src=".gitbook/assets/Bully 9_25_2023 9_59_06 PM.png" alt="" width="563"><figcaption><p>Boys Dorm Exterior</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Bully 9_25_2023 9_59_06 PM.png" alt=""><figcaption><p>Boys Dorm Exterior</p></figcaption></figure>
 
 </div>
 
