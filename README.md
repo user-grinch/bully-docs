@@ -2,8 +2,6 @@
 
 ## Academy Building
 
-
-
 {% tabs %}
 {% tab title="Exterior" %}
 <figure><img src=".gitbook/assets/Bully 9_25_2023 10_34_26 PM.png" alt=""><figcaption><p>Academy Building Exterior</p></figcaption></figure>
@@ -19,6 +17,26 @@ Coordinates:  224, -74, 7
 Area ID: 2
 
 Coordinates:  -629, -324, 0
+{% endtab %}
+{% endtabs %}
+
+## Aquaberry
+
+{% tabs %}
+{% tab title="Exterior" %}
+<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_39_05 PM.png" alt=""><figcaption><p>Auqberry Exterior</p></figcaption></figure>
+
+Area ID: 0
+
+Coordinates: 434, 189, 8
+{% endtab %}
+
+{% tab title="Interior" %}
+<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_40_10 PM (1).png" alt=""><figcaption></figcaption></figure>
+
+Area ID: 33
+
+Coordinates:  -710, 226, 0
 {% endtab %}
 {% endtabs %}
 
@@ -47,6 +65,26 @@ Coordinates:  253, 329, 2
 Area ID: 60
 
 Coordinates:  -775, 352, 6
+{% endtab %}
+{% endtabs %}
+
+## **Bike Repairs**
+
+{% tabs %}
+{% tab title="Exterior" %}
+<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_29_57 PM.png" alt=""><figcaption><p>Bike Repairs Exterior</p></figcaption></figure>
+
+Area ID: 0
+
+Coordinates:  326, 273, 6
+{% endtab %}
+
+{% tab title="Interior" %}
+<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_32_36 PM.png" alt=""><figcaption></figcaption></figure>
+
+Area ID: 29
+
+Coordinates:  -788, 376, 0
 {% endtab %}
 {% endtabs %}
 
@@ -86,6 +124,12 @@ Area ID: 0
 
 Coordinates: 387, 271, 9
 
+## Bus Stops
+
+Area ID: 0
+
+Coordinates: 304, 270, 5
+
 ## Girls Dorm
 
 {% tabs %}
@@ -106,9 +150,13 @@ Coordinates:  -437, 313, -8
 {% endtab %}
 {% endtabs %}
 
+## Go-kart Street Race
+
+Area ID: 0
+
+Coordinates:  315, 231, 5
+
 ## Library
-
-
 
 {% tabs %}
 {% tab title="Exterior" %}
@@ -128,6 +176,32 @@ Coordinates:  -785, 203, 90
 {% endtab %}
 {% endtabs %}
 
+## Nails & Beauty (HairCuts)
+
+{% tabs %}
+{% tab title="Exterior" %}
+<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_35_29 PM.png" alt=""><figcaption><p>Nails &#x26; Beaty Exterior</p></figcaption></figure>
+
+
+
+
+
+
+
+Area ID: 0
+
+Coordinates:  393, 205, 7
+{% endtab %}
+
+{% tab title="Interior" %}
+<figure><img src=".gitbook/assets/Captures 9_26_2023 3_36_52 PM.png" alt=""><figcaption><p>Nails &#x26; Beauty Interior</p></figcaption></figure>
+
+Area ID: 46
+
+Coordinates:  -770, 23, 3
+{% endtab %}
+{% endtabs %}
+
 ## Police Station
 
 <figure><img src=".gitbook/assets/Bully 9_26_2023 3_12_05 PM.png" alt=""><figcaption><p>Police Station Exterior</p></figcaption></figure>
@@ -137,8 +211,6 @@ Area ID: 0
 Coordinates:  379, 252, 8
 
 ## Premium Boxing Gear
-
-
 
 {% tabs %}
 {% tab title="Exterior" %}
