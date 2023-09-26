@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Locations](README.md)
+* [Clothing](README.md)
+* [Locations](<README (1).md>)
