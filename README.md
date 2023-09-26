@@ -29,10 +29,12 @@ Coordinates:  -629, -324, 0
 Area ID: 0
 
 Coordinates: 434, 189, 8
+
+
 {% endtab %}
 
 {% tab title="Interior" %}
-<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_40_10 PM (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_40_10 PM.png" alt=""><figcaption><p>Aquaberry Interior</p></figcaption></figure>
 
 Area ID: 33
 
@@ -227,5 +229,25 @@ Coordinates:  394, 146, 5
 Area ID: 27
 
 Coordinates:  -721, 376, 294
+{% endtab %}
+{% endtabs %}
+
+## Yum Yum Market
+
+{% tabs %}
+{% tab title="Exterior" %}
+<figure><img src=".gitbook/assets/Bully 9_26_2023 3_43_49 PM.png" alt=""><figcaption><p>Exterior</p></figcaption></figure>
+
+Area ID: 0
+
+Coordinates:  338, 152, 5
+{% endtab %}
+
+{% tab title="Interior" %}
+<figure><img src=".gitbook/assets/Locations - Bully Docs - Google Chrome 9_26_2023 3_45_51 PM.png" alt=""><figcaption><p>Interior</p></figcaption></figure>
+
+Area ID: 26
+
+Coordinates:  -573, 389, 0
 {% endtab %}
 {% endtabs %}
